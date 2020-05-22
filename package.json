@@ -1,8 +1,8 @@
 {
-  "name": "-",
-  "version": "0.1.0",
+  "name": "ZTMWD-RoboFriends",
+  "version": "1.0.0",
   "private": true,
-  "homepage": "https://mrekyle.github.io/robo-friends",
+  "homepage": "https://mrekyle.github.io/ZTMWD-RoboFriends",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -25,7 +25,7 @@
     "extends": "react-app"
   },
   "browserslist": {
-    "production": [
+    "production": [  
       ">0.2%",
       "not dead",
       "not op_mini all"
